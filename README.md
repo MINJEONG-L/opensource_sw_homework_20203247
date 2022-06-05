@@ -1,7 +1,7 @@
 # opensource_sw_homework_20203247
 ## 1. 리눅스 명령어
 > ###  ps  
-ps는 `process status`의 줄인말로 현재 실행중인 프로세스 목록과 상태를 보여준다.   
+ps는 `process status`의 줄인말로 현재 실행중인 프로세스 목록과 상태를 보여준다.  
 
 **ps 사용법**  
   
@@ -9,6 +9,9 @@ ps는 `process status`의 줄인말로 현재 실행중인 프로세스 목록�
 ps [option]  
 ex) $ ps -ef     <-- -ef 옵션은 모든 프로세스를 풀 포맷으로 출력한다. 
 ~~~  
+  
+![image](https://user-images.githubusercontent.com/82145878/172035134-be689fb7-c633-40eb-87d3-8f011260bd11.png)
+  
   
   **주요 옵션**  
 
@@ -18,7 +21,9 @@ ex) $ ps -ef     <-- -ef 옵션은 모든 프로세스를 풀 포맷으로 출�
   |-f|완전한 포맷|  
   |-l|긴 포맷|  
   
-이미지 넣고  
+![image](https://user-images.githubusercontent.com/82145878/172035148-aa5de9de-750d-4255-b8aa-35df5bc60df7.png)
+  
+  
   **출력 내용**  
     
 ||내용|
