@@ -181,12 +181,14 @@ PID, USER, PR, NI, VIRT, RES, SHR, S, %MEM, TIME+, COMMAND 값이 순서대로 �
 graph LR
 A(커맨드모드 ESC)-->B(q 누르기)  
 B-->C(a와 z사이 문자로 recording 시작)   
-C-->D(커맨드모드 ESC)  
+C-->D(반복을 위한 원하는 동작 후 커맨드모드 ESC)  
 D-->E(q 누르기 recording 끝) 
 ```
   
 > 매크로 사용하기  
 ```
   1. ESC를 눌러 커맨드 모드로 돌아온다.
-  2. @ + recording 시작할 때 눌렀던 문자
+  2. @ + recording 시작할 때 눌렀던 문자   ==> 1회 실행
+  3. @@   ==> 방금 실행한 매크로 실행
+  4. `n`@ + recording 시작할 때 눌렀던 문자   ==> 매크로 `n회` 실행
 ``` 
