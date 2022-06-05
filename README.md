@@ -76,6 +76,7 @@ kill 명령어는 프로세스를 죽일 때 사용하는 명령어로 사용하
 > ###  jobs  
 jobs 명령어는 `작업의 상태를 표시`하는 명령어로 현재 쉘 세션에서 실행시킨 백그라운드 작업의 목록이 출력된다.  
 즉, 현재 쉘 프로세스의 자식 백그라운드 프로세스들을 보여주는 것이다.  
+
 **jobs 사용법**  
   
 ~~~
@@ -120,7 +121,7 @@ top
 ex) $ top  
 ~~~  
 
-![image](https://user-images.githubusercontent.com/82145878/172035324-2b35272c-1325-4a77-9016-bbd2d3048be9.png)  
+<img src=https://user-images.githubusercontent.com/82145878/172035324-2b35272c-1325-4a77-9016-bbd2d3048be9.png width="80%" height="80%"/>  
 
 **전체 요약 영역**  
   
