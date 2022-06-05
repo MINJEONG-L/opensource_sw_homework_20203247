@@ -106,8 +106,7 @@ ex) $ jobs     <-- option, job number는 선택사항
 |Stopped(SIGTTIN)|SIGTTIN 시그널이 작업을 일시 중단|
 |Stopped(SIGTTOU)|SIGTTOU 시그널이 작업을 일시 중단|  
   
-![image](https://user-images.githubusercontent.com/82145878/172035740-7ebe16eb-c457-4a30-a17b-c3a900d4fbfd.png)
-
+![image](https://user-images.githubusercontent.com/82145878/172036921-47f6777f-b9f7-4e46-9b6d-e1925e18eae5.png)
 ---
 > ###  top  
 top 명령어는 현재 OS의 상태를 나타내주는 CLI 어플리케이션이다.  
