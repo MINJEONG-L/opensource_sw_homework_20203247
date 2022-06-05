@@ -120,7 +120,7 @@ top
 ex) $ top  
 ~~~  
 
-이미지  
+![image](https://user-images.githubusercontent.com/82145878/172035324-2b35272c-1325-4a77-9016-bbd2d3048be9.png)  
 
 **전체 요약 영역**  
   
