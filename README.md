@@ -106,7 +106,7 @@ ex) $ jobs     <-- option, job number는 선택사항
 |Stopped(SIGTTIN)|SIGTTIN 시그널이 작업을 일시 중단|
 |Stopped(SIGTTOU)|SIGTTOU 시그널이 작업을 일시 중단|  
   
-이미지 넣고  
+![image](https://user-images.githubusercontent.com/82145878/172035740-7ebe16eb-c457-4a30-a17b-c3a900d4fbfd.png)
 
 ---
 > ###  top  
@@ -122,7 +122,8 @@ ex) $ top
 ~~~  
 
 <img src=https://user-images.githubusercontent.com/82145878/172035324-2b35272c-1325-4a77-9016-bbd2d3048be9.png width="80%" height="80%"/>  
-
+  
+  
 **전체 요약 영역**  
   
 ~~~  
@@ -130,6 +131,7 @@ ex) $ top
 대표적인 값은 현재 시간, OS가 살아있는 시간, 현재 접속중인 유저 세션 수, 
 로드 에버리지(CPU Load의 이동 평균), Tasks(현재 프로세스들의 상태), CPU 사용량, 메모리 사용량이다.
 ~~~  
+  
   
 **디테일 영역**  
   
@@ -170,6 +172,7 @@ PID, USER, PR, NI, VIRT, RES, SHR, S, %MEM, TIME+, COMMAND 값이 순서대로 �
   |b|Batch 모드 작동|
     
     
+---      
 ## 2. vim 에디터 매크로 사용법  
 > vim 에디터로 매크로 Recording 하기
   
