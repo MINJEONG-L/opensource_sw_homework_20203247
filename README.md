@@ -62,9 +62,9 @@ kill 명령어는 프로세스를 죽일 때 사용하는 명령어로 사용하
       $kill -TERM 1500
   ~~~ 
   
-   ** 시그널 종류  
+   **시그널 종류**  
     kill -l 명령어를 통해 사용할 수 있는 시그널을 확인 할 수 있다.
-    이미지 넣기  
+    ![image](https://user-images.githubusercontent.com/82145878/172035082-81565ed3-c492-462d-b7f6-c8cefb3bdf0f.png) 
     
   
 ---
